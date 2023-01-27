@@ -1,11 +1,13 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
+import Navbar from "./Navbar";
 
 export default class NotFound extends Component {
   render() {
     return (
-      <div>
-        <h1>Page Not Found</h1>
-      </div>
-    )
+      <>
+        <Navbar />
+        <h1 className="text-center my-3">Page Not Found</h1>
+      </>
+    );
   }
 }

@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "totalResults": 61,
+    "articles": [
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "New Triassic caecilian fossils reveal origin of limbless amphibians - The Indian Express",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS90ZWNobm9sb2d5L3RyaWFzc2ljLWZvc3NpbHMtY2FlY2lsaWFucy04NDA1ODQyL9IBVmh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS90ZWNobm9sb2d5L3RyaWFzc2ljLWZvc3NpbHMtY2FlY2lsaWFucy04NDA1ODQyL2xpdGUv?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-01-26T08:15:49Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Tribune India"
+    },
+    "author": "The Tribune India",
+    "title": "Asteroid coming exceedingly close to Earth, but will miss - The Tribune India",
+    "description": "An asteroid the size of a delivery truck will whip past Earth on Thursday night, one of the closest such encounters ever recorded.",
+    "url": "https://www.tribuneindia.com/news/science-technology/asteroid-coming-exceedingly-close-to-earth-but-will-miss-473948",
+    "urlToImage": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/1/2023_1$largeimg_1977413121.jpg",
+    "publishedAt": "2023-01-26T08:14:00Z",
+    "content": "AP\r\nCape Canaveral, January 26\r\nAn asteroid the size of a delivery truck will whip past Earth on Thursday night, one of the closest such encounters ever recorded.\r\nNASA insists it will be a near miss… [+1591 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "India Today"
+    },
+    "author": "India Today Web Desk",
+    "title": "James Webb Telescope pauses science operation, suffers 2nd glitch in space - India Today",
+    "description": "The world's most powerful observatory suffered a communication delay causing its flight software to time out.",
+    "url": "https://www.indiatoday.in/science/story/james-webb-telescope-pauses-science-operation-as-it-suffers-2nd-glitch-in-space-2326656-2023-01-26",
+    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202301/jwst_34-sixteen_nine.jpg?VersionId=BRT7mMchRk.ZQQsv.qezXtsozm2Mvmfi",
+    "publishedAt": "2023-01-26T06:55:00Z",
+    "content": "By India Today Web Desk: The James Webb Space Telescope, located 15,00,000 kilometers away from Earth, has suffered another glitch. The Near Infrared Imager and Slitless Spectrograph (NIRISS) instrum… [+2580 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Weather Channel"
+    },
+    "author": "The Weather Channel",
+    "title": "NASA to Test Nuclear Thermal Rockets; May Speed-Up Mars Trips! | Weather.com - The Weather Channel",
+    "description": "A nuclear thermal rocket will allow for faster transit time, effectively reducing the risks for astronauts as well.",
+    "url": "https://weather.com/en-IN/india/space/news/2023-01-26-nasa-to-test-nuclear-thermal-rockets-to-speed-up-mars-trips",
+    "urlToImage": "https://s.w-x.co/in-nuclear%20rocket%20NASA.jpg",
+    "publishedAt": "2023-01-26T06:47:03Z",
+    "content": "Apart from the obvious obstacles in getting to Mars, one major bottleneck that stands in the way of humanity conquering the Red Planet is the sheer distance separating it from Earth. Scientists have … [+1797 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DNA India"
+    },
+    "author": "Raunak Jain",
+    "title": "Comet C/2022 E3: A once-in-a-lifetime spectacle; see the glowing green comet pass Earth next week - DNA India",
+    "description": "See the rare glowing green comet C/2022 E3 pass Earth next week.",
+    "url": "https://www.dnaindia.com/science/report-comet-c2022-e3-a-once-in-a-lifetime-spectacle-see-the-glowing-green-comet-pass-earth-next-week-3019525",
+    "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/01/26/2568770-untitled-design-2023-01-26t094454.229.jpg",
+    "publishedAt": "2023-01-26T04:05:00Z",
+    "content": "Reported By:| Edited By: Raunak Jain |Source: DNA Web Desk |Updated: Jan 26, 2023, 09:44 AM ISTNext week will bring a rare and a magnificent sight to the skies as a glowing comet makes its way back t… [+1662 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Teslarati"
+    },
+    "author": "https://www.facebook.com/13ericralph31",
+    "title": "SpaceX’s second Starlink Gen2 launch could set payload record [webcast] - TESLARATI",
+    "description": "SpaceX’s second Starlink Gen2 launch will carry 56 satellites, potentially making it the heaviest payload the company has ever launched. At 9:30 am EST, SpaceX completed a static fire of the two-stage Falcon 9 rocket assigned to launch its next Starlink missi…",
+    "url": "https://www.teslarati.com/spacex-second-starlink-gen2-launch-record-payload/",
+    "urlToImage": "https://www.teslarati.com/wp-content/uploads/2023/01/OneWeb-F16-F9-B1076-LC-40-010922-Richard-Angle-1-C.jpg",
+    "publishedAt": "2023-01-26T02:47:58Z",
+    "content": "SpaceX’s second Starlink Gen2 launch will carry 56 satellites, potentially making it the heaviest payload the company has ever launched.\r\nAt 9:30 am EST, SpaceX completed a static fire of the two-sta… [+3831 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Utah professor's team may have figured out why we lost our fur coats - KSL News",
+    "description": "Scientists at the University of Utah and the University of Pittsburgh think they know the genes that made us lose our fur coats.",
+    "url": "https://www.youtube.com/watch?v=dfSsT89ObAQ",
+    "urlToImage": "https://i.ytimg.com/vi/dfSsT89ObAQ/maxresdefault.jpg",
+    "publishedAt": "2023-01-26T02:10:57Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "EurekAlert"
+    },
+    "author": null,
+    "title": "Can we increase the carbon content of agricultural soils? - EurekAlert",
+    "description": "According to the Danish Parliament's \"Agreement on the Green Transformation of Danish Agriculture\", agriculture must contribute significantly to achieving the goal of reducing greenhouse gas emissions by 70% by 2030 compared to 1990 levels. An increase in the…",
+    "url": "https://www.eurekalert.org/news-releases/977641",
+    "urlToImage": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+    "publishedAt": "2023-01-26T02:03:11Z",
+    "content": "Climate change is considered one of the most pressing problems of our time. In this context, soil plays a greater role than might be expected. Soil can simultaneously store CO2 from the atmosphere an… [+5099 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "25newsnow.com"
+    },
+    "author": "Andrew McMunn",
+    "title": "Radio signal captured from most distant galaxy so far, astronomers say - 25 News Now",
+    "description": "Astronomers said they have recently captured a radio signal from the most distant galaxy so far.",
+    "url": "https://www.25newsnow.com/2023/01/26/radio-signal-captured-most-distant-galaxy-so-far-astronomers-say/",
+    "urlToImage": "https://gray-week-prod.cdn.arcpublishing.com/resizer/cotBFpfJjEMa__osplb_n0hzv70=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/BYVT5SVLLNE3JJWHEUMJQ5XXNA.png",
+    "publishedAt": "2023-01-26T01:24:00Z",
+    "content": "(Gray News) Astronomers from Canada and India said they have recently captured a radio signal from the most distant galaxy from Earth so far.\r\nThe researchers from McGill University and the Indian In… [+1552 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Earth's inner core rotating slower than surface, study suggests - The Hindu",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9zY2ktdGVjaC9zY2llbmNlL2VhcnRocy1pbm5lci1jb3JlLXJvdGF0aW5nLXNsb3dlci10aGFuLXN1cmZhY2Utc3R1ZHktc3VnZ2VzdHMvYXJ0aWNsZTY2NDMyNDczLmVjZdIBgAFodHRwczovL3d3dy50aGVoaW5kdS5jb20vc2NpLXRlY2gvc2NpZW5jZS9lYXJ0aHMtaW5uZXItY29yZS1yb3RhdGluZy1zbG93ZXItdGhhbi1zdXJmYWNlLXN0dWR5LXN1Z2dlc3RzL2FydGljbGU2NjQzMjQ3My5lY2UvYW1wLw?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-01-25T22:04:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Astronauts discuss upcoming mission to ISS - Associated Press",
+    "description": null,
+    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D33LN6aSrdGI",
+    "urlToImage": null,
+    "publishedAt": "2023-01-25T22:02:40Z",
+    "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "WATCH LIVE: SpaceX rocket launch from Cape Canaveral - WKMG News 6 ClickOrlando",
+    "description": "SpaceX is targeting Wednesday morning for the launch of a GPS satellite aboard the Falcon 9 rocket from Cape Canaveral.Read more: https://www.clickorlando.co...",
+    "url": "https://www.youtube.com/watch?v=Avst5yNm4ws",
+    "urlToImage": "https://i.ytimg.com/vi/Avst5yNm4ws/hqdefault.jpg",
+    "publishedAt": "2023-01-25T22:02:24Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Can JWST Take Pictures of Exoplanets ft. Julien Girard - SETI Institute",
+    "description": null,
+    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHnMPg61nfoQ",
+    "urlToImage": null,
+    "publishedAt": "2023-01-25T21:41:30Z",
+    "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Phys.Org"
+    },
+    "author": "Science X",
+    "title": "Webb spies Chariklo ring system with high-precision technique - Phys.org",
+    "description": "In 2013, Felipe Braga-Ribas and collaborators, using ground-based telescopes, discovered that Chariklo hosts a system of two thin rings. Such rings had been expected only around large planets such as Jupiter and Neptune.",
+    "url": "https://phys.org/news/2023-01-webb-spies-chariklo-high-precision-technique.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/webb-spies-chariklo-ri.jpg",
+    "publishedAt": "2023-01-25T21:03:15Z",
+    "content": "An occultation light curve from Webbs Near-infrared Camera (NIRCam) Instrument at 1.5 microns wavelength (F150W) shows the dips in brightness of the star (Gaia DR3 6873519665992128512) as Chariklos r… [+6344 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Universe Today"
+    },
+    "author": "Evan Gough",
+    "title": "According to Simulations, the Milky Way is One in a Million - Universe Today",
+    "description": "You might have to travel a half a billion light years from the Milky Way to find another cosmological wall with a galaxy like ours.",
+    "url": "https://www.universetoday.com/159754/according-to-simulations-the-milky-way-is-one-in-a-million/",
+    "urlToImage": "https://www.universetoday.com/wp-content/uploads/2023/01/drawing-3.jpg",
+    "publishedAt": "2023-01-25T20:52:54Z",
+    "content": "Humanity is in a back-and-forth relationship with nature. First, we thought we were at the center of everything, with the Sun and the entire cosmos rotating around our little planet. We eventually re… [+9225 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "What Time Is It on the Moon? - Greek Reporter",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vZ3JlZWtyZXBvcnRlci5jb20vMjAyMy8wMS8yNS90aW1lLW1vb24v0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-01-25T19:41:45Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Can artificial skin go beyond the sensing features of natural skin? - Newswise",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3Lm5ld3N3aXNlLmNvbS9hcnRpY2xlcy9jYW4tYXJ0aWZpY2lhbC1za2luLWdvLWJleW9uZC10aGUtc2Vuc2luZy1mZWF0dXJlcy1vZi1uYXR1cmFsLXNraW7SAWRodHRwczovL3d3dy5uZXdzd2lzZS5jb20vYXJ0aWNsZXMvY2FuLWFydGlmaWNpYWwtc2tpbi1nby1iZXlvbmQtdGhlLXNlbnNpbmctZmVhdHVyZXMtb2YtbmF0dXJhbC1za2lu?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-01-25T19:40:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Breathtaking image of space cloud captured on James Webb Telescope - FOX 35 Orlando",
+    "description": "The James Webb Telescope recently captured this image of a space cloud more than 630 light years away from Earth, specifically the Chamaeleon I dark molecula...",
+    "url": "https://www.youtube.com/watch?v=bLCkJtGc3D0",
+    "urlToImage": "https://i.ytimg.com/vi/bLCkJtGc3D0/maxresdefault.jpg",
+    "publishedAt": "2023-01-25T17:32:32Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Space.com"
+    },
+    "author": "Keith Cooper",
+    "title": "Perseverance Mars rover files 1st detailed weather report - Space.com",
+    "description": "The average temperature at Jezero Crater is a chilly minus 67 degrees Fahrenheit (minus 55 degrees Celsius).",
+    "url": "https://www.space.com/perseverance-rover-mars-weather-report",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/yy8oKFZouTeWaYaJ47VchN-1200-80.jpg",
+    "publishedAt": "2023-01-25T17:00:13Z",
+    "content": "Mars' weather is proving to be turbulent and diverse over the Perseverance rover's landing site in Jezero Crater.\r\nNASA's Perseverance rover\r\n is dotted with various weather sensors, collectively cal… [+4511 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Futurism"
+    },
+    "author": "Maggie Harrison",
+    "title": "Guy \"Outsources\" His Own Memory to AI - Futurism",
+    "description": "To cope with the challenges that modern human memory faces, tech journalist Shubham Agarwal decided to \"outsource\" his memory to assistive AI called Heyday.",
+    "url": "https://futurism.com/guy-outsources-memory-ai",
+    "urlToImage": "https://wp-assets.futurism.com/2023/01/guy-outsources-memory-ai.jpg",
+    "publishedAt": "2023-01-25T16:32:43Z",
+    "content": "To cope with the very real challenges that humans face when trying to remember everything that we read online, tech journalist Shubham Agarwal decided to \"outsource\" his memory to assistive AI.\r\n\"Oft… [+3608 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nature.com"
+    },
+    "author": null,
+    "title": "Down-conversion of a single photon as a probe of many-body localization - Nature.com",
+    "description": "An experiment is described in which the conversion of a single photon in a multimode cavity into a shower of low-energy photons was attempted, but failed owing to many-body localization and violation of Fermi’s golden rule.",
+    "url": "https://www.nature.com/articles/s41586-022-05615-y",
+    "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05615-y/MediaObjects/41586_2022_5615_Fig1_HTML.png",
+    "publishedAt": "2023-01-25T16:13:15Z",
+    "content": "<li>Klyshko, D. Scattering of light in a medium with nonlinear polarizability. Sov. Phys. JETP28, 522526 (1969).\r\nADS \r\nGoogle Scholar \r\n</li><li>Altshuler, B. L., Gefen, Y., Kamenev, A. &amp; Levito… [+6295 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nature.com"
+    },
+    "author": null,
+    "title": "Stigma receptors control intraspecies and interspecies barriers in Brassicaceae - Nature.com",
+    "description": "A signalling mechanism ensuring intraspecies and interspecies reproductive barriers in flowering plants is uncovered.",
+    "url": "https://www.nature.com/articles/s41586-022-05640-x",
+    "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05640-x/MediaObjects/41586_2022_5640_Fig1_HTML.png",
+    "publishedAt": "2023-01-25T16:13:15Z",
+    "content": "Plant materials and growth conditions\r\nStigmas from B. rapa var. pekinensis, also known as heading Chinese cabbage, and A. thaliana were mostly used for pollination responses. For interactions on SI … [+24758 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nature.com"
+    },
+    "author": null,
+    "title": "Structural basis of Rho-dependent transcription termination - Nature.com",
+    "description": "Structures presented in this study confirm decades of genetic and biochemical evidence for the mechanism of Rho-dependent termination in bacteria.",
+    "url": "https://www.nature.com/articles/s41586-022-05658-1",
+    "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05658-1/MediaObjects/41586_2022_5658_Fig1_HTML.png",
+    "publishedAt": "2023-01-25T16:13:15Z",
+    "content": "<li>Ray-Soni, A., Bellecourt, M. &amp; Landick, R. Mechanisms of bacterial transcription termination. Annu. Rev. Biochem.85, 319347 (2016).\r\nArticle \r\n CAS \r\nGoogle Scholar \r\n</li><li>Mitra, P., Ghos… [+9356 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nature.com"
+    },
+    "author": null,
+    "title": "Organic reaction mechanism classification using machine learning - Nature.com",
+    "description": "Mechanistic elucidation through currently available kinetic analysis is limited by mathematical approximations and human interpretation, here a deep neural network model has been trained to analyse ordinary kinetic data and automatically elucidate the corresp…",
+    "url": "https://www.nature.com/articles/s41586-022-05639-4",
+    "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05639-4/MediaObjects/41586_2022_5639_Fig1_HTML.png",
+    "publishedAt": "2023-01-25T16:07:21Z",
+    "content": "<li>Simonetti, M., Cannas, D. M., Just-Baringo, X., Vitorica-Yrezabal, I. J. &amp; Larrosa, I. Cyclometallated ruthenium catalyst enables late-stage directed arylation of pharmaceuticals. Nat. Chem.1… [+9028 chars]"
+    }
+    ]
+    }

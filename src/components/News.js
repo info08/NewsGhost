@@ -5,6 +5,15 @@ import PropTypes from "prop-types";
 import Navbar from "./Navbar";
 import InfiniteScroll from "react-infinite-scroll-component";
 import LoadingBar from "react-top-loading-bar";
+import General from "./data/general.json";
+import Business from "./data/business.json";
+import Enter from "./data/enter.json";
+import Health from "./data/health.json";
+import Science from "./data/science.json";
+import Sports from "./data/sports.json";
+import Technology from "./data/technology.json";
+import Footer from "./Footer";
+import  Modal  from "./Model";
 
 const capitalizeFirstLetter = (string) => {
   return string.charAt(0).toUpperCase() + string.slice(1);
@@ -29,7 +38,7 @@ export default class News extends Component {
       loader: true,
       page: 1,
       totalResults: 0,
-      progress:0
+      progress: 0,
     };
     document.title = `${capitalizeFirstLetter(
       this.props.category
@@ -41,23 +50,108 @@ export default class News extends Component {
   }
 
   async updateNews(page, loader, index) {
-    this.setState({ loader: loader ,progress:index!==2 && 10 });
-    //ac66b504102a461b94f6288f6e8ad124
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=112ca57cc21846e7be8300cc534654ee&pageSize=${this.props.pageSize}&page=${page}`;
-    this.setState({progress:index!==2 && 40});
-    let data = await fetch(url);
-    let jsonData = await data.json();
-    this.setState({progress:index!==2 &&70})
-    this.setState({
-      page: page,
-      articles:
-        index === 1
-          ? jsonData.articles
-          : this.state.articles.concat(jsonData.articles),
-      totalResults: jsonData.totalResults,
-      loader: false,
-      progress:index!==2 &&100
-    });
+    this.setState({ loader: loader, progress: index !== 2 && 30 });
+
+    // let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${process.env.REACT_APP_NEWS_API_KEY}&pageSize=${this.props.pageSize}&page=${page}`;
+    // this.setState({ progress: index !== 2 && 40 });
+    // let data = await fetch(url);
+    // let jsonData = await data.json();
+    // this.setState({ progress: index !== 2 && 70 });
+    // this.setState({
+    //   page: page,
+    //   articles:
+    //     index === 1
+    //       ? jsonData.articles
+    //       : this.state.articles.concat(jsonData.articles),
+    //   totalResults: jsonData.totalResults,
+    //   loader: false,
+    //   progress: index !== 2 && 100,
+    // });
+
+    this.setState({ progress: index !== 2 && 70 });
+    switch (this.props.category) {
+      case "technology":
+        this.setState({
+          page: page,
+          articles: Technology.articles,
+          totalResults: Technology.totalResults,
+          loader: false,
+          progress: index !== 2 && 100,
+        });
+        break;
+      case "sports":
+        this.setState({
+          page: page,
+          articles: Sports.articles,
+          totalResults: Sports.totalResults,
+          loader: false,
+          progress: index !== 2 && 100,
+        });
+        break;
+      case "science":
+        this.setState({
+          page: page,
+          articles: Science.articles,
+          totalResults: Science.totalResults,
+          loader: false,
+          progress: index !== 2 && 100,
+        });
+        break;
+      case "general":
+        this.setState({
+          page: page,
+          articles: General.articles,
+          totalResults: General.totalResults,
+          loader: false,
+          progress: index !== 2 && 100,
+        });
+        break;
+      case "business":
+        this.setState({
+          page: page,
+          articles: Business.articles,
+          totalResults: Business.totalResults,
+          loader: false,
+          progress: index !== 2 && 100,
+        });
+        break;
+      case "business":
+        this.setState({
+          page: page,
+          articles: Business.articles,
+          totalResults: Business.totalResults,
+          loader: false,
+          progress: index !== 2 && 100,
+        });
+        break;
+      case "entertainment":
+        this.setState({
+          page: page,
+          articles: Enter.articles,
+          totalResults: Enter.totalResults,
+          loader: false,
+          progress: index !== 2 && 100,
+        });
+        break;
+        case "health":
+        this.setState({
+          page: page,
+          articles: Health.articles,
+          totalResults: Health.totalResults,
+          loader: false,
+          progress: index !== 2 && 100,
+        });
+        break;
+      default:
+        this.setState({
+          page: page,
+          articles: General.articles,
+          totalResults: General.totalResults,
+          loader: false,
+          progress: index !== 2 && 100,
+        });
+        break;
+    }
   }
 
   fetchMoreData = () => {
@@ -79,6 +173,7 @@ export default class News extends Component {
           height={3}
           //onLoaderFinished={() => this.setState({progress:100})}
         />
+        <Modal />
         <div>
           <h3 className="text-center my-3">
             NewsGhost - Top {capitalizeFirstLetter(this.props.category)}{" "}
@@ -86,12 +181,12 @@ export default class News extends Component {
           </h3>
           {this.state.loader && <Spinner />}
           {this.state.articles !== undefined ? (
-            <InfiniteScroll
-              dataLength={this.state.articles.length}
-              next={this.fetchMoreData}
-              hasMore={this.state.articles.length !== this.state.totalResults}
-              loader={<Spinner />}
-            >
+            // <InfiniteScroll
+            //   dataLength={this.state.articles.length}
+            //   next={this.fetchMoreData}
+            //   hasMore={this.state.articles.length !== this.state.totalResults}
+            //   loader={<Spinner />}
+            // >
               <div className="container">
                 <div className="row">
                   {this.state.articles &&
@@ -115,11 +210,12 @@ export default class News extends Component {
                     })}
                 </div>
               </div>
-            </InfiniteScroll>
+            //  </InfiniteScroll>
           ) : (
             <h2 className="text-center">Data Not Found</h2>
           )}
         </div>
+        <Footer />
       </>
     );
   }

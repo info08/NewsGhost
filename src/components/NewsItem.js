@@ -7,12 +7,12 @@ export default class NewsItem extends Component {
     this.state = {};
   }
   render() {
-    let { title, description, imageUrl, newsUrl, publishedAt, Auther,source } =
+    let { title, description, imageUrl, newsUrl,source } =
       this.props;
-    let date = new Date(publishedAt);
+    // let date = new Date(publishedAt);
     return (
       <div className="card">
-        <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger" style={{left:'80% !important',zIndex:'99999'}}>
+        <span class="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{left:'80%'}}>
          {source}
         </span>
         <img
@@ -24,12 +24,12 @@ export default class NewsItem extends Component {
         <div className="card-body">
           <h5 className="card-title">{title}</h5>
           <p className="card-text">{description}</p>
-          <p class="card-text">
+          {/* <p class="card-text">
             <small class="text-muted">
               {Auther ? " By " + Auther + " & " : "Unknown & "}{" "}
               {publishedAt && date.toGMTString()}
             </small>
-          </p>
+          </p> */}
           <a
             href={newsUrl}
             className="btn btn-dark"
